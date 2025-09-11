@@ -12,3 +12,4 @@ D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\refint\Assignemnt-1
 D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.pdb
 D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.genruntimeconfig.cache
 D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\ref\Assignemnt-1.dll
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.sourcelink.json
