@@ -1,0 +1,14 @@
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\bin\Debug\net9.0\Assignemnt-1.exe
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\bin\Debug\net9.0\Assignemnt-1.deps.json
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\bin\Debug\net9.0\Assignemnt-1.runtimeconfig.json
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\bin\Debug\net9.0\Assignemnt-1.dll
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\bin\Debug\net9.0\Assignemnt-1.pdb
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.AssemblyInfoInputs.cache
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.AssemblyInfo.cs
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.csproj.CoreCompileInputs.cache
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.dll
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\refint\Assignemnt-1.dll
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.pdb
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\Assignemnt-1.genruntimeconfig.cache
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignemnt-1\obj\Debug\net9.0\ref\Assignemnt-1.dll
