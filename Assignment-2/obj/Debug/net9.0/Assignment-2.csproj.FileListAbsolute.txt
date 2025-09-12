@@ -1,0 +1,15 @@
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\bin\Debug\net9.0\Assignment-2.exe
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\bin\Debug\net9.0\Assignment-2.deps.json
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\bin\Debug\net9.0\Assignment-2.runtimeconfig.json
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\bin\Debug\net9.0\Assignment-2.dll
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\bin\Debug\net9.0\Assignment-2.pdb
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.AssemblyInfoInputs.cache
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.AssemblyInfo.cs
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.csproj.CoreCompileInputs.cache
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.sourcelink.json
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.dll
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\refint\Assignment-2.dll
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.pdb
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\Assignment-2.genruntimeconfig.cache
+D:\Inten-AMNIL\Amnil-.NET-repo\Assignment-2\obj\Debug\net9.0\ref\Assignment-2.dll
