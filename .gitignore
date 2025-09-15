@@ -1,0 +1,49 @@
+
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio cache files
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Others
+*.pdb
+*.idb
+*.ipch
+*.dbmdl
+*.jfm
+*.tlog
+*.vspscc
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.res
+*.tlh
+*.tli
+*.tmp
+*.log
+*.vsidx

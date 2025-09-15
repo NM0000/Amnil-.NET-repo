@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Inten-AMNIL\\Amnil-.NET-repo\\Assignemnt-1\\Assignemnt-1.csproj": {}
+    "D:\\Inten-AMNIL\\Assignemnt-1\\Assignemnt-1.csproj": {}
   },
   "projects": {
-    "D:\\Inten-AMNIL\\Amnil-.NET-repo\\Assignemnt-1\\Assignemnt-1.csproj": {
+    "D:\\Inten-AMNIL\\Assignemnt-1\\Assignemnt-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Inten-AMNIL\\Amnil-.NET-repo\\Assignemnt-1\\Assignemnt-1.csproj",
+        "projectUniqueName": "D:\\Inten-AMNIL\\Assignemnt-1\\Assignemnt-1.csproj",
         "projectName": "Assignemnt-1",
-        "projectPath": "D:\\Inten-AMNIL\\Amnil-.NET-repo\\Assignemnt-1\\Assignemnt-1.csproj",
+        "projectPath": "D:\\Inten-AMNIL\\Assignemnt-1\\Assignemnt-1.csproj",
         "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
-        "outputPath": "D:\\Inten-AMNIL\\Amnil-.NET-repo\\Assignemnt-1\\obj\\",
+        "outputPath": "D:\\Inten-AMNIL\\Assignemnt-1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
