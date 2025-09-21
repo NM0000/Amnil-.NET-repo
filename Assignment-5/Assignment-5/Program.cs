@@ -37,6 +37,7 @@ class Program
         Console.WriteLine("2. Exit");
     }
 
+
     static void convertIntoGrade()
     {
         Console.Write("\nEnter your Numerical Score for conversion (0-100): ");
