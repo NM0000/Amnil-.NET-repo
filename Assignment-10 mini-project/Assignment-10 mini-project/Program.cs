@@ -19,14 +19,14 @@ namespace Assignment_10_mini_project
     static int studentCount = 0;
 
         /// <summary>
-        /// Entry point of the Student Grade Management System.
+        /// Entry point for Student Grade Management System.
         /// Displays a menu and allows the user to manage students and grades.
         /// </summary>
         static void Main(string[] args)
         {
-            bool exit = false;
+            bool keepRunning = true;
 
-            while (!exit)
+            while (keepRunning)
             {
                 Console.Clear();
                 Console.WriteLine("Student Grade Management System");
@@ -50,7 +50,7 @@ namespace Assignment_10_mini_project
                         DisplayReport();
                         break;
                     case "4":
-                        exit = true;
+                        keepRunning = true;
                         break;
                     default:
                         Console.WriteLine("Invalid option. Please try again.");
