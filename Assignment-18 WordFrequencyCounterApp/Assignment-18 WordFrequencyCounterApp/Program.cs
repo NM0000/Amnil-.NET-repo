@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace WordFrequencyCounterApp
+namespace Assignment_18_WordFrequencyCounterApp
 {
     /// <summary>
     /// Counts word frequencies in a given text using a Dictionary.
