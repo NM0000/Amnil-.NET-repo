@@ -5,7 +5,7 @@ namespace Assignment_23
 {
     class Program
     {
-        static string dbPath = "Data Source=school.db;";
+        static string dbPath = "Data Source=schoolDB.db;";
 
         static void Main()
         {
